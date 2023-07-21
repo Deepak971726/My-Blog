@@ -1,6 +1,4 @@
-# Blog.it
-
-  <img src=/frontend/public/android-chrome-192x192.png>
+# My-Blog
 
 A MERN stack Blog App , with user authentication.
 
@@ -15,16 +13,7 @@ A MERN stack Blog App , with user authentication.
 -   Run the server on PORT 8080
 -   npm start
 
-You can obtain the MONGO_URI after create a collectoin on [mongodb atlas](https://www.mongodb.com/cloud/atlas). 
-
-## Demo
-
-The app has been hosted on heroku [here](https://mern-blog-it.herokuapp.com/). P.S: You might have to wait for a few seconds for the heroku site to respond.
-
-<p align="center">
-
- <img alt="login page" src="./img/app.png" width="534" height="300" />
-</p>
+You can obtain the MONGO_URI after create a collectoin on [mongodb atlas].
 
 ## Info
 
